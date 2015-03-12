@@ -1,0 +1,22 @@
+
+.form {
+	margin: 1em;
+}
+
+.StorageDiv {
+	font-size: 1em;
+	margin: 3em;
+	color: purple;
+	text-align: center;
+}
+
+.sessionStorageDiv {
+	margin-top: 3em;
+	color: green;
+}
+
+.sessionStorageValues {
+	display: inline-block;
+	font-size: 1em;
+	color: green;
+}
